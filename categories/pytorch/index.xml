@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pytorch on Umur Gokalp</title>
+    <link>https://uGokalp.github.io/categories/pytorch/</link>
+    <description>Recent content in pytorch on Umur Gokalp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://uGokalp.github.io/categories/pytorch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QMIND Educate Jupyter Notebooks</title>
+      <link>https://uGokalp.github.io/portfolio/educate/</link>
+      <pubDate>Wed, 19 Aug 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/portfolio/educate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face Verification</title>
+      <link>https://uGokalp.github.io/portfolio/face_verifcation/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/portfolio/face_verifcation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

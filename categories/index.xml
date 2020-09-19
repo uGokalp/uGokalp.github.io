@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Umur Gokalp</title>
+    <link>https://uGokalp.github.io/categories/</link>
+    <description>Recent content in Categories on Umur Gokalp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Aug 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://uGokalp.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>deep-learning</title>
+      <link>https://uGokalp.github.io/categories/deep-learning/</link>
+      <pubDate>Wed, 19 Aug 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://uGokalp.github.io/categories/machine-learning/</link>
+      <pubDate>Wed, 19 Aug 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pytorch</title>
+      <link>https://uGokalp.github.io/categories/pytorch/</link>
+      <pubDate>Wed, 19 Aug 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/categories/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>numpy</title>
+      <link>https://uGokalp.github.io/categories/numpy/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/categories/numpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>school-work</title>
+      <link>https://uGokalp.github.io/categories/school-work/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/categories/school-work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
