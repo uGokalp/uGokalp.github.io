@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Face Verification</title>
+      <link>https://uGokalp.github.io/projects/face_verifcation/</link>
+      <pubDate>Sat, 19 Sep 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/projects/face_verifcation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Happy Transformer</title>
       <link>https://uGokalp.github.io/portfolio/happytransformer/</link>
       <pubDate>Mon, 10 Aug 2020 23:00:00 +0000</pubDate>
@@ -27,11 +36,30 @@ Key Features  New: Finetuning Masked Language Models Available language models: 
     </item>
     
     <item>
+      <title>Happy Transformer</title>
+      <link>https://uGokalp.github.io/projects/happytransformer/</link>
+      <pubDate>Mon, 10 Aug 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/projects/happytransformer/</guid>
+      <description>Happy Transformer is an API built on top of PyTorch&amp;rsquo;s transformer library that makes it easy to utilize state-of-the-art NLP models.
+Key Features  New: Finetuning Masked Language Models Available language models: XLNET, BERT and ROBERTA. Predict a masked word within a sentence. Fine tune binary sequence classification models to solve problems like sentiment analysis. Predict the likelihood that sentence B follows sentence A within a paragraph.     Public Methods HappyROBERTA HappyXLNET HappyBERT     Masked Word Prediction ✔ ✔ ✔   Sequence Classification ✔ ✔ ✔   Next Sentence Prediction   ✔   Question Answering   ✔   Masked Word Prediction Finetuning ✔  ✔    I have contributed directly to Masked Word Prediction and Masked Word Prediction Finetuning.</description>
+    </item>
+    
+    <item>
       <title>QMIND Educate Jupyter Notebooks</title>
       <link>https://uGokalp.github.io/portfolio/educate/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
       
       <guid>https://uGokalp.github.io/portfolio/educate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QMIND Educate Jupyter Notebooks</title>
+      <link>https://uGokalp.github.io/projects/educate/</link>
+      <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/projects/educate/</guid>
       <description></description>
     </item>
     
