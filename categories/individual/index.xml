@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Individual on Umur Gokalp</title>
+    <link>https://uGokalp.github.io/categories/individual/</link>
+    <description>Recent content in Individual on Umur Gokalp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Sep 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://uGokalp.github.io/categories/individual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Face Verification</title>
+      <link>https://uGokalp.github.io/portfolio/face_verifcation/</link>
+      <pubDate>Sat, 19 Sep 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/portfolio/face_verifcation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML Algorithms in Numpy : WIP</title>
+      <link>https://uGokalp.github.io/portfolio/ml_algorithms/</link>
+      <pubDate>Sun, 19 Jul 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/portfolio/ml_algorithms/</guid>
+      <description>Deep Learning Algoritms  Neural Network Deep Neural Network Convolutional Neural Network Recurrent Neural Network  Supervised Learning Algorithms  Logistic Regression Linear Regression Decision Tree Random Forest Support Vector Machines  Unsupervised Learning Algoritms  kNN K-Means PCA  </description>
+    </item>
+    
+    <item>
+      <title>My project for CISC 351 - Advanced Data Analytics.</title>
+      <link>https://uGokalp.github.io/portfolio/analytics/</link>
+      <pubDate>Tue, 05 May 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://uGokalp.github.io/portfolio/analytics/</guid>
+      <description>Project for CISC 351 - Advanced Data Analytics </description>
+    </item>
+    
+  </channel>
+</rss>
