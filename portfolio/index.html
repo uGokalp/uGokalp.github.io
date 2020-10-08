@@ -167,7 +167,31 @@ if (!doNotTrack) {
   <div class="uk-container uk-margin-xlarge-bottom">
     <div uk-filter="target: .js-filter">
       <ul class="uk-subnav uk-subnav-pill uk-subnav-divider">
-        <li uk-filter-control><a href="#">Filter</a></li>
+        <li uk-filter-control><a href="#">All</a></li>
+        
+
+        <li uk-filter-control="[data-tags*='Individual']">
+          <a href="#">Individual</a>
+        </li>
+
+        
+
+        <li uk-filter-control="[data-tags*='Group']">
+          <a href="#">Group</a>
+        </li>
+
+        
+
+        <li uk-filter-control="[data-tags*='machine-learning']">
+          <a href="#">Machine Learning</a>
+        </li>
+
+        
+
+        <li uk-filter-control="[data-tags*='school-work']">
+          <a href="#">School Work</a>
+        </li>
+
         
       </ul>
 
@@ -177,7 +201,7 @@ if (!doNotTrack) {
         uk-height-match="target: > li > div > .fixy"
       >
         
-        <li data-tags="machine-learning32pytorch32deep-learning">
+        <li data-tags="machine-learning32pytorch32deep-learning32Individual">
           <div class="uk-card uk-card-default" style="position: relative;">
             <div class="fixy">
               <div class="uk-card-media-top">
@@ -201,7 +225,7 @@ if (!doNotTrack) {
           </div>
         </li>
         
-        <li data-tags="deep-learning32machine-learning">
+        <li data-tags="deep-learning32machine-learning32Group">
           <div class="uk-card uk-card-default" style="position: relative;">
             <div class="fixy">
               <div class="uk-card-media-top">
@@ -225,7 +249,7 @@ if (!doNotTrack) {
           </div>
         </li>
         
-        <li data-tags="machine-learning32numpy">
+        <li data-tags="machine-learning32numpy32Individual">
           <div class="uk-card uk-card-default" style="position: relative;">
             <div class="fixy">
               <div class="uk-card-media-top">
@@ -249,7 +273,7 @@ if (!doNotTrack) {
           </div>
         </li>
         
-        <li data-tags="machine-learning32pytorch32deep-learning">
+        <li data-tags="machine-learning32pytorch32deep-learning32Group">
           <div class="uk-card uk-card-default" style="position: relative;">
             <div class="fixy">
               <div class="uk-card-media-top">
@@ -273,7 +297,7 @@ if (!doNotTrack) {
           </div>
         </li>
         
-        <li data-tags="school-work">
+        <li data-tags="school-work32Individual">
           <div class="uk-card uk-card-default" style="position: relative;">
             <div class="fixy">
               <div class="uk-card-media-top">
